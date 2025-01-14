@@ -32,7 +32,7 @@ def main():                                                      # Lo que uno di
 ```
 Este es como un guia para la consola, que dara como resultado el lugar especifico que necesitamos de toooodo el paquete.
 lastimosamente... (_ja_) no supe como agrupar ambos en un solo main así que hice dos main.... ¿y pues sera contradictorio que hallán dos main?  _no lo sé_,
-el punto( . ), use dos main, el primero me dara el resultado que quiero poniendo los datos requeridos y el segundo... igual. con la diferencía de que en ambos aunque use import y from, 
+el punto (*.*), use dos main, el primero me dara el resultado que quiero poniendo los datos requeridos y el segundo... igual. con la diferencía de que en ambos aunque use import y from, 
 cada uno llamo modulos totalmente diferentes(_casí_).
 
 ya para acabar...
