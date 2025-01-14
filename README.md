@@ -1,5 +1,5 @@
 # Reto 5  _Juan_ _Toro_
-En este reto vamos a usar los paquetes y los modulos para una mayor organización del código, usamos from e import, para llamar a los diferentes modulos desde main.
+En este reto vamos a usar los paquetes y los modulos para una mayor organización del código, usamos from e import, para llamar a los diferentes modulos desde los interiores del paquete.
 
 ## Estuctura de paquetes y modulos
 La estructura para este reto 5 seria el siguiente:
