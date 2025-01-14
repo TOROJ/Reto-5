@@ -16,8 +16,8 @@ Reto 5!
 └── Shape/  # Paquete con un solo modulo
     ├── __init__.py  
     └── total.py  # Donde se encuentra todo el codigo en un modulo
-├── main 1.py  # Archivo que contiene código de prueba individual
-├── main 2.py  # Archivo que contiene código de prueba de un modulo
+└──main 1.py  # Archivo que contiene código de prueba individual
+└── main 2.py  # Archivo que contiene código de prueba de un modulo
 ```
 ## Explicación:
 El paquete total esta dividido en dos paquetes, los cuales dividi en el que estara **un modulo** que es igual a todo el código en general... como si fuera normal
