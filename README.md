@@ -20,9 +20,9 @@ Reto 5!
 └── main 2.py  # Archivo que contiene código de prueba de un modulo
 ```
 ## Explicación:
-El paquete total esta dividido en dos paquetes, los cuales dividi en el que estara **un modulo** que es igual a todo el código en general... como si fuera normal
+El paquete total esta dividido en dos paquetes, los cuales dividí en el que estara **un modulo** que es igual a todo el código en general (como si fuera un codigo normal)
 y el otro, que se encuentran otra sub división de la división de la... (y así) de los cuales se dividieron en modulos por cada clase, algo curioso es que es obligatorio poner en cada 
-paquete "**__init__.py**" peeero,  es necesario tambien poner un main, del cual este retomara los datos propuestos y se llamaran con el import (_¿muy confuso?_ ) 
+paquete "**_ __init___.py**" y además  es necesario tambien poner un main, del cual este retomara los datos propuestos y se llamaran con el import ( _¿muy confuso?_ ) 
 para darse una idea:
 ```python
 def main():
