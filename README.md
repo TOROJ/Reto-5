@@ -36,7 +36,7 @@ el punto **(. )**, use dos main, el primero me dara el resultado que quiero poni
 cada uno llamo modulos totalmente diferentes(_casí_).
 
 ya para acabar...
-## concluciones y demás:
+## Concluciones y demás:
 principalmente el reto se basa en tener un orden y poderlo usar gracias a los imports en los ejercicios ya vistos anteriormente, me parecio bastante sencillo pero muy eficaz a la hora de organizar
 siendo sincero aquel dia de aquel año, me parecio que poner toda la informacion de un rectangulo en un modulo fue abrumador, ver clase por clase y no saber el error, mirar y ver que faltaban
 algunas cositas, este tema de paquetes lo veo util para mejorar en este aspecto, lo unico seria saber usar los imports.
