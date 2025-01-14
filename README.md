@@ -21,14 +21,14 @@ Reto 5!
 ```
 ## Explicación:
 El paquete total esta dividido en dos paquetes, los cuales dividí en el que estara **un modulo** que es igual a todo el código en general (como si fuera un codigo normal)
-y el otro, que se encuentran otra sub división de la división de la... (y así) de los cuales se dividieron en modulos por cada clase, algo curioso es que es obligatorio poner en cada 
+y el otro, que se encuentran otra sub división de la división de la... ( y así ) de los cuales se dividieron en modulos por cada clase, algo curioso es que es obligatorio poner en cada 
 paquete "**_ __init___.py**" y además  es necesario tambien poner un main, del cual este retomara los datos propuestos y se llamaran con el import ( _¿muy confuso?_ ) 
 para darse una idea:
 ```python
-def main():
-    from Shape_individual.class_rectangulo import Rectangulo
-    from Shape_individual.class_cuadrado import Cuadrado
-    from Shape_individual.class_triangulo import Triangulo
+def main():                                                      # Lo que uno dice seria algo así: 
+    from Shape_individual.class_rectangulo import Rectangulo   # vaya al paquete "Shap..." ahí busque un paquete que se llame " class..." y de ahi traigame la clase ... 
+    from Shape_individual.class_cuadrado import Cuadrado        
+    from Shape_individual.class_triangulo import Triangulo     # y pues así ... ¿ ahora si ?
 ```
 Este es como un guia para la consola, que dara como resultado el lugar especifico que necesitamos de tooooda el paquete.
 lastimosamente... (_ja_) no supe como agrupar ambos en un solo main así que hice dos main.... ¿y pues sera contradictorio que hallán dos main?  _no lo sé_
